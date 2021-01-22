@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lanre Makinde <lanre.developer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@aoberoi/passport-slack": "^1.0.5",
+    "@slack/web-api": "^6.0.0",
+    "async": "^3.2.0",
+    "bluebird": "^3.7.2",
+    "dotenv": "^8.2.0",
+    "hashmap": "^2.4.0",
+    "passport": "^0.4.1",
+    "pg-promise": "^10.9.1",
+    "simple-node-logger": "^18.12.24",
+    "util": "^0.12.3"
+  }
+}
