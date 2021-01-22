@@ -7,3 +7,11 @@ Adding too much slack workspaces could result in missing out important mentions,
 This is designed to work as a service linked to workspaces that intend to allow their users ge notified with recent messages in a browser extension.
 
 The extension provides a shortcut to the slack workspace(s) and only shows the channels and workspace users need to engage with conversations.
+
+## Contributing
+
+Please open an issue to suggest features that could make SlackGreet better for the remote workspace.
+
+## License
+
+[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
